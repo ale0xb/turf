@@ -1,5 +1,5 @@
 {
-  "name" "turf",
+  "name" : "turf",
   "private": true,
   "version": "4.0.0",
   "description": "a node.js library for performing geospatial operations with geojson",
